@@ -8,7 +8,7 @@ import CanvasLoader from '../Loader';
 
 
 const Earth = ({ isMobile }) => {
-  const earth = useGLTF('Arcade/scene.gltf')
+  const earth = useGLTF('Arcade/arcade_scene.glb')
 
   return (
     <mesh>
