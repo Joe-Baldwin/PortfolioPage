@@ -2,7 +2,7 @@ This Portfolio was created using React & Vite while implementing Three.js for ce
 
 About:
 
-Hi My name is Joe Baldwin, I am a fullstack developer who enjoys tinkering around with code and find new interesting ways to approach different challenges. I have a BFA degree in Film and am currently a Service Technician for a Fireplace company. These may seem like two completely weird and different fields, they are, however I am the type of person who likes to think of creative solutions but also really enjoy digging into how things work. That personality lead me to coding actually. Coding is the perfect combination of wanting to be creative but also problem solving and figuring out how your code works and what it can do. 
+Hi My name is Joe Baldwin, I am a fullstack developer who enjoys tinkering around with code and find new interesting ways to approach different challenges. I have a BFA degree in Film and am currently the Marketing Director for a Fireplace company. Coding is the perfect combination of wanting to be creative but also problem solving and figuring out how your code works and what it can do. 
 
 I started tinkering around with coding my senior year of college when i took an Animation for Websites class and it intrigued me enough to come back to html and css a few times over the next couple of years. The most recent time i got into tinkering around with Html and Css I wanted to learn more about coding and stumbled into learning a bit of javascript. Once seeing the power of that, I decided that it might be a good time to do a coding bootcamp. Having some structure in learning and being able to get the advice of other coders would help me alot more than trying to self learn, especially since I learned how to code while working full time.
 
